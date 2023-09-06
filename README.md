@@ -52,7 +52,7 @@ Confusion matrix is used to represent the final result
 
  
 
-RESULT: 
+RESULT:
 
  Customer churn prediction is successfully completed for the given dataset. 
 
