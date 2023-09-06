@@ -5,7 +5,7 @@ Develop a machine learning model to predict customer churn based on historical c
 
 Data Preprocessing: 
 
-No null values, mistyped values were found 
+No null values, mistyped values were found
 
 Attributes containing categorical values: Gender 
 
